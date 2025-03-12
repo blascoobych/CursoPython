@@ -1,2 +1,2 @@
 # CursoPython
-Apuntes para el curso Python AFC 2025
+Apuntes para el curso Python AFC 2025 
